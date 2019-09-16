@@ -1,1 +1,1 @@
-# Kharn-Bhai
+# Game Map Editor
